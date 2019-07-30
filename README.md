@@ -10,7 +10,7 @@ This GitHub Repository contains simulations for general quantum processes: Hamil
 	Simulations:
 		0-π potential: This is a simulation of the 0-π qubit potential Hamiltonian based on [1]
 		LC-Oscillator: This is an energy spectrum graph of the LC-Oscillator. The energies of consecutive energy levels are evenly spaced.
-	0-π qubit by Defne Dilbaz: This is the slideshow I presented for Undergraduate Summer Research Program organized by University of Toronto Computer Science Department.
+		0-π qubit by Defne Dilbaz: This is the slideshow I presented for Undergraduate Summer Research Program organized by University of Toronto Computer Science Department.
 
 ![alt text](https://media.wired.com/photos/5c1061feda545e26dd421b14/master/pass/Bristlecone_mix-perspective_ErikLucero.jpg)
 
