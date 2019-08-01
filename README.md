@@ -2,7 +2,7 @@
 
 My name is Defne Dilbaz and I am an undergraduate summer research intern for Summer 2019 in Prof. Alán Aspuru-Guzik's Matter Lab with CQIQC Summer Award. My research is about 0-π Qubit; a topologically protected qubit. 
 
-As an Electrical and Computer Engineering student at the University of Toronto, I did not know quantum mechanics. With the help of Dr. Thi Ha Kyaw, who was my mentor, and Prof. Alán Aspuru-Guzik, I was able to learn quantum mechanics and run simulations.
+As an Electrical and Computer Engineering student at the University of Toronto, I did not know quantum mechanics. With the help of my research advisor, Prof. Alán Aspuru-Guzik, and my mentor, Dr. Thi Ha Kyaw,  I was able to learn quantum mechanics and run simulations.
 
 This GitHub Repository contains simulations for general quantum processes: Hamiltonian evolution, population graphing, LC-oscillators. Also, I have included simulations of the 0-π Qubit.
 
