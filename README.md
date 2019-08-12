@@ -8,9 +8,10 @@ This GitHub Repository contains simulations for general quantum processes: Hamil
 
 	LZ-Effect: This is a problem set arranged by Dr. Thi Ha Kyaw which analyzes a time-independent Hamiltonian, it's population graph, and the evolution as defined by Schrodinger's equation.		
 	Simulations:
-		0-π potential: This is a simulation of the 0-π qubit potential Hamiltonian based on [1]
-		LC-Oscillator: This is an energy spectrum graph of the LC-Oscillator. The energies of consecutive energy levels are evenly spaced.
-		0-π qubit by Defne Dilbaz: This is the slideshow I presented for Undergraduate Summer Research Program organized by University of Toronto Computer Science Department.
+		0-π potential: We simulate the 0-π qubit potential Hamiltonian based on [1]
+		LC-Oscillator: We plot the energy spectrum graph of the LC-Oscillator. The energies of consecutive energy levels are evenly spaced.
+		Flux Qubit: We look into the flux qubit, made up of three Josephson  Junctions, and plot their first 5 energy levels.
+	0-π qubit by Defne Dilbaz: This is the slideshow I presented for Undergraduate Summer Research Program organized by University of Toronto Computer Science Department.
 
 ![alt text](https://media.wired.com/photos/5c1061feda545e26dd421b14/master/pass/Bristlecone_mix-perspective_ErikLucero.jpg)
 
